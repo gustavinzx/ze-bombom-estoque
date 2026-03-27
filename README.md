@@ -115,7 +115,7 @@ O algoritmo usa divisão inteira (`//`) e resto (`%`) para encaixar o máximo de
 
 ## 👤 Autor
 
-Feito com 🍫 por **gsds0**  
+Feito com 🍫 por **Gustavo Silva dos Santos **  
 Repositório: [github.com/gsds0/ze-bombom-estoque](https://github.com/gsds0)
 
 ---
